@@ -1,5 +1,4 @@
-This account was created due to an access loss to my primary one (guligon90). The latter one can be accessed from [here](https://www.github
-com/guligon90).
+This account was created due to an access loss to my primary one (guligon90). The latter one can be accessed from [here](https://www.github.com/guligon90).
 
 [Terry A. Davis](https://www.youtube.com/watch?v=z5CvDYFSxhU) was right.
 

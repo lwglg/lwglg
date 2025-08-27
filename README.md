@@ -1,6 +1,6 @@
 - I’m a software engineer with 15 years experience, starting in a R&D setting, constructing embedded systems for data acquisition equipment and precision electromechanical devices, then later migrating to web development;
-- I studied Electrical Engineering for three years at UFSC, having then switched to Mathematics in 2016, obtaining a bachelor’s degree in 2019;
-- I’m currently working as a back-end engineer designing scalable cloud-based software, with an emphasis on Java, Python and TypeScript languages, with a particular interest in event-driven architectures and workflow engine design;
+- I studied Electrical Engineering for three years at [UFSC](https://en.ufsc.br/) (Federal University of Santa Catarina, Brazil), having then switched to Mathematics in 2016, at the same university, obtaining a bachelor’s degree in 2019;
+- I’m currently working as a back-end engineer designing scalable cloud-based software, with an emphasis on Python, TypeScript and Java languages, with a particular interest in event-driven architectures, workflow engine designs and complexity analysis;
 - Working part-time as a private Math teacher mostly for students of undergrad and high school levels.
 - [Terry A. Davis](https://www.youtube.com/watch?v=z5CvDYFSxhU) was right.
 - My sincere opinion on my years working as a software engineer [here](https://drive.google.com/file/d/1YxfnsVZJ4dFelXzAidN29Z2_HmzjwQ4_/view?usp=sharing).

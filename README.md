@@ -4,6 +4,7 @@
 - Working part-time as a private Math teacher mostly for students of undergrad and high school levels.
 - [Terry A. Davis](https://www.youtube.com/watch?v=z5CvDYFSxhU) was right.
 - My sincere opinion on my years working as a software engineer [here](https://drive.google.com/file/d/1YxfnsVZJ4dFelXzAidN29Z2_HmzjwQ4_/view?usp=sharing).
+- My [article](https://medium.com/better-programming/determining-time-complexity-of-algorithms-experimentally-4f844a5080ec) on Medium, concerning a practical application of [asymptotic Analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis).
 
 
  Top languages (lwglg)     |  Top languages (guligon90)

@@ -3,7 +3,7 @@
 - I’m currently working as a back-end engineer designing scalable cloud-based software, with an emphasis on Python, TypeScript and Java languages, with a particular interest in event-driven architectures, workflow engine designs and complexity analysis;
 - Working part-time as a private Math teacher mostly for students of undergrad and high school levels.
 - My [article](https://medium.com/better-programming/determining-time-complexity-of-algorithms-experimentally-4f844a5080ec) on Medium, concerning a practical application of [asymptotic analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis) of algorithms. -->
-- Check out my personal [page](https://lwglg.github.io/lwglg-portfolio-spa/).
+- Check out my personal [page](https://lwglg.github.io/portfolio-spa/).
 - [Terry A. Davis](https://www.youtube.com/watch?v=z5CvDYFSxhU) was right.
 
 ---

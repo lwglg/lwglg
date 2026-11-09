@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 480 270" role="img" aria-label="Languages by code volume">
+<style>
+:root { --fg: #1f2328; --muted: #59636e; --highlight: #1f2328; }
+@media (prefers-color-scheme: dark) {
+  :root { --fg: #e6edf3; --muted: #9198a1; --highlight: #ffffff; }
+}
+text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+.title { font-size: 16px; font-weight: 600; fill: var(--fg); }
+.label { font-size: 13px; fill: var(--fg); }
+.muted { fill: var(--muted); }
+.percent { font-size: 12px; font-weight: 700; fill: #fff; text-anchor: middle; pointer-events: none; }
+.outline { fill: transparent; stroke: none; stroke-linejoin: round; pointer-events: all; cursor: pointer; }
+.outline:hover { stroke: var(--highlight); stroke-width: 3; }
+</style>
+<text class="title" x="16" y="28">Languages by code volume</text>
+<path d="M120.00 50.00A100 100 0 0 1 131.45 249.34L126.41 205.63A56 56 0 0 0 120.00 94.00Z" fill="#2563eb"/>
+<path d="M131.45 249.34A100 100 0 0 1 29.41 192.36L69.27 173.72A56 56 0 0 0 126.41 205.63Z" fill="#c2410c"/>
+<path d="M29.41 192.36A100 100 0 0 1 36.30 95.28L73.13 119.35A56 56 0 0 0 69.27 173.72Z" fill="#15803d"/>
+<path d="M36.30 95.28A100 100 0 0 1 52.53 76.19L82.22 108.67A56 56 0 0 0 73.13 119.35Z" fill="#7e22ce"/>
+<path d="M52.53 76.19A100 100 0 0 1 71.92 62.31L93.08 100.90A56 56 0 0 0 82.22 108.67Z" fill="#be123c"/>
+<path d="M71.92 62.31A100 100 0 0 1 82.88 57.14L99.21 98.00A56 56 0 0 0 93.08 100.90Z" fill="#0f766e"/>
+<path d="M82.88 57.14A100 100 0 0 1 91.82 54.05L104.22 96.27A56 56 0 0 0 99.21 98.00Z" fill="#a16207"/>
+<path d="M91.82 54.05A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 104.22 96.27Z" fill="#52525b"/>
+<path class="outline" d="M120.00 50.00A100 100 0 0 1 131.45 249.34L126.41 205.63A56 56 0 0 0 120.00 94.00Z"><title>TypeScript: 48.2% (1.8 MB)</title></path>
+<path class="outline" d="M131.45 249.34A100 100 0 0 1 29.41 192.36L69.27 173.72A56 56 0 0 0 126.41 205.63Z"><title>Go: 19.9% (731 KB)</title></path>
+<path class="outline" d="M29.41 192.36A100 100 0 0 1 36.30 95.28L73.13 119.35A56 56 0 0 0 69.27 173.72Z"><title>Python: 16.2% (595 KB)</title></path>
+<path class="outline" d="M36.30 95.28A100 100 0 0 1 52.53 76.19L82.22 108.67A56 56 0 0 0 73.13 119.35Z"><title>Java: 4.0% (147 KB)</title></path>
+<path class="outline" d="M52.53 76.19A100 100 0 0 1 71.92 62.31L93.08 100.90A56 56 0 0 0 82.22 108.67Z"><title>C#: 3.8% (140 KB)</title></path>
+<path class="outline" d="M71.92 62.31A100 100 0 0 1 82.88 57.14L99.21 98.00A56 56 0 0 0 93.08 100.90Z"><title>Shell: 1.9% (71 KB)</title></path>
+<path class="outline" d="M82.88 57.14A100 100 0 0 1 91.82 54.05L104.22 96.27A56 56 0 0 0 99.21 98.00Z"><title>JavaScript: 1.5% (55 KB)</title></path>
+<path class="outline" d="M91.82 54.05A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 104.22 96.27Z"><title>Other: 4.5% (167 KB)</title></path>
+<text class="percent" x="197.9" y="149.5">48%</text>
+<text class="percent" x="82.0" y="222.1">20%</text>
+<text class="percent" x="42.2" y="148.5">16%</text>
+
+
+
+
+
+<rect x="250" y="55" width="14" height="14" rx="3" fill="#2563eb"/><text class="label" x="272" y="66">TypeScript</text><text class="label muted" x="464" y="66" text-anchor="end">48.2%</text>
+<rect x="250" y="79" width="14" height="14" rx="3" fill="#c2410c"/><text class="label" x="272" y="90">Go</text><text class="label muted" x="464" y="90" text-anchor="end">19.9%</text>
+<rect x="250" y="103" width="14" height="14" rx="3" fill="#15803d"/><text class="label" x="272" y="114">Python</text><text class="label muted" x="464" y="114" text-anchor="end">16.2%</text>
+<rect x="250" y="127" width="14" height="14" rx="3" fill="#7e22ce"/><text class="label" x="272" y="138">Java</text><text class="label muted" x="464" y="138" text-anchor="end">4.0%</text>
+<rect x="250" y="151" width="14" height="14" rx="3" fill="#be123c"/><text class="label" x="272" y="162">C#</text><text class="label muted" x="464" y="162" text-anchor="end">3.8%</text>
+<rect x="250" y="175" width="14" height="14" rx="3" fill="#0f766e"/><text class="label" x="272" y="186">Shell</text><text class="label muted" x="464" y="186" text-anchor="end">1.9%</text>
+<rect x="250" y="199" width="14" height="14" rx="3" fill="#a16207"/><text class="label" x="272" y="210">JavaScript</text><text class="label muted" x="464" y="210" text-anchor="end">1.5%</text>
+<rect x="250" y="223" width="14" height="14" rx="3" fill="#52525b"/><text class="label" x="272" y="234">Other</text><text class="label muted" x="464" y="234" text-anchor="end">4.5%</text>
+</svg>

@@ -1,0 +1,48 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+  workflow_call: # reused by profile-stats.yml as a quality gate
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    name: Lint & format
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: make install-ci
+      - run: make lint
+      - run: make format-check
+
+  test:
+    name: Tests & smoke run
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: make install-ci
+      - run: make test
+      - name: Smoke-generate charts from sample data
+        run: make sample OUT_DIR=build/stats
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sample-charts
+          path: build/stats/*.svg
+          retention-days: 7

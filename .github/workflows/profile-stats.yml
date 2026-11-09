@@ -1,0 +1,39 @@
+name: Profile-Stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # daily, 03:00 UTC
+  push:
+    branches: [main]
+    paths: ['src/**', 'package.json', '.github/workflows/profile-stats.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ci:
+    name: Quality gate
+    uses: ./.github/workflows/ci.yml
+
+  stats:
+    name: Generate & publish charts
+    needs: ci
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+      - name: Generate language charts
+        run: make generate OWNER="${{ github.repository_owner }}"
+        env:
+          # Use a personal access token (secret) instead if you want private repos counted.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit charts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/*.svg
+          git diff --cached --quiet || git commit -m "chore: update profile stats"
+          git push

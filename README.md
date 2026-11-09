@@ -1,19 +1,13 @@
-<div align="center">
-
-# Greetings
-
-</div>
-
-**Contents**
+## Contents
 
 - [👤 About me](#about-me)
-- [🛠️ Technologies](#️-technologies)
+- [🛠️ Tools that I've worked with so far](#tools-that-ive-worked-with-so-far)
 - [📊 GitHub statistics](#-github-statistics)
 - [📬 Contact information](#-contact-information)
 
 ## 👤 About me
 
-Software engineer with about 17 years in the industry and a degree in Mathematics (UFSC).
+Software engineer with about 17 years in the industry and a degree in Mathematics (B.Math UFSC, 2019).
 
 - **2011–2015 · R&D in renewable energy (LABSOLAR, Mechanical Engineering Dept., UFSC):** built embedded/data-acquisition systems (HP and Campbell Scientific dataloggers, servomechanical solar trackers with radiometers) and statistical routines (multivariable regression, EN12975 / ISO9806) to determine the efficiency curve of flat-plate solar collectors for residential hot water consumption.
 - **Since then · full-stack engineer (11 years):**
@@ -23,7 +17,7 @@ Software engineer with about 17 years in the industry and a degree in Mathematic
 
 More details in my CV.
 
-## 🛠️ Technologies
+## 🛠️ Tools that I've worked with so far
 
 | Category                 | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -46,7 +40,7 @@ More details in my CV.
 
 ## 📬 Contact information
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lwglg.github.io-121212?style=flat-square&logo=githubpages&logoColor=white)](https://lwglg.github.io/portfolio-spa)
-[![Email](https://img.shields.io/badge/Email-lwglguilherme@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lwglguilherme@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-@guligon90-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@guligon90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guligon90-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guligon90)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-lwglg.github.io-121212?style=flat-square&logo=githubpages&logoColor=white)](https://lwglg.github.io/portfolio-spa)
+- [![Email](https://img.shields.io/badge/Email-lwglguilherme@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lwglguilherme@gmail.com)
+- [![Medium](https://img.shields.io/badge/Medium-@guligon90-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@guligon90)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-guligon90-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guligon90)

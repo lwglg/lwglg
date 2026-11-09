@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Guilherme 👋
+# Saudações / Greetings
 
 *Escolha o idioma / Choose your language*
 
@@ -8,13 +8,12 @@
 
 <!-- ===================== PORTUGUÊS (BR) ===================== -->
 <details name="lang" open>
-<summary><b>🇧🇷 Português (Brasil)</b></summary>
+<summary><b>🇧🇷 Português</b></summary>
 
 **Índice**
 
 - [👤 Sobre mim](#sobre-pt)
 - [🛠️ Tecnologias](#tech-pt)
-- [📊 Estatísticas do GitHub](#stats-pt)
 - [📬 Entre em contato](#contato-pt)
 
 <a id="sobre-pt"></a>
@@ -23,7 +22,7 @@
 
 Engenheiro de software com cerca de 17 anos de mercado e bacharelado em Matemática (UFSC).
 
-- **2011–2015 · P&D em energias renováveis (LABSOLAR, Depto. de Engenharia Mecânica, UFSC):** desenvolvi sistemas embarcados/de aquisição de dados (dataloggers HP e Campbell Scientific, seguidores solares servomecânicos com radiômetros) e rotinas estatísticas (regressão multivariável, EN12975 / ISO9806) para determinar a curva de eficiência de coletores solares planos para aquecimento de água residencial.
+- **2011–2015 · P&D em energias renováveis (LABSOLAR, Depto. de Engenharia Mecânica, UFSC):** desenvolvi sistemas embarcados/de aquisição de dados (dataloggers HP e Campbell Scientific, seguidores solares servomecânicos com radiômetros) e rotinas estatísticas (regressão multivariável, EN12975 / ISO9806) para determinar a curva de eficiência de coletores solares planos para aquecimento de água, em um contexto de consumo residencial.
 - **Desde então · engenheiro full-stack (11 anos):**
   - **Getmore Serviços (2017, hoje Lihai Tecnologia):** primeiro contato com PLN e Aprendizado de Máquina, na deduplicação de dados de produtos coletados via scraping para uma plataforma de e-commerce.
   - **Fundação CERTI / Intelbras (2019–2022):** modelagem e construção de uma plataforma de convergência de dados de dispositivos IoT para segurança patrimonial, sob Scrum.
@@ -67,6 +66,7 @@ Mais detalhes no meu currículo.
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![NATS JetStream](https://img.shields.io/badge/NATS-JetStream-00E492?style=for-the-badge&logo=natsdotio&logoColor=white)
 
 **Nuvem e DevOps**
 
@@ -100,30 +100,11 @@ Mais detalhes no meu currículo.
 ![Sistemas Embarcados](https://img.shields.io/badge/Sistemas_Embarcados-455A64?style=for-the-badge)
 ![Estatística](https://img.shields.io/badge/An%C3%A1lise_Estat%C3%ADstica-5E35B1?style=for-the-badge)
 
-<a id="stats-pt"></a>
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img alt="Estatísticas do GitHub" src="./profile-summary-card-output/default/3-stats.svg" height="200">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img alt="Linguagens por repositório" src="./profile-summary-card-output/default/1-repos-per-language.svg" height="200">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img alt="Linguagens por commits" src="./profile-summary-card-output/default/2-most-commit-language.svg" height="200">
-  </picture>
-</p>
-
 <a id="contato-pt"></a>
 
 ## 📬 Entre em contato
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lwglg.github.io-121212?style=for-the-badge&logo=githubpages&logoColor=white)](https://lwglg.github.io/porfolio-spa)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lwglg.github.io-121212?style=for-the-badge&logo=githubpages&logoColor=white)](https://lwglg.github.io/portfolio-spa)
 [![E-mail](https://img.shields.io/badge/E--mail-lwglguilherme@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lwglguilherme@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-@guligon90-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guligon90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guligon90-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guligon90)
@@ -132,13 +113,12 @@ Mais detalhes no meu currículo.
 
 <!-- ===================== ENGLISH (UK) ===================== -->
 <details name="lang">
-<summary><b>🇬🇧 English (UK)</b></summary>
+<summary><b>🇬🇧 English</b></summary>
 
 **Contents**
 
 - [👤 About me](#about-en)
 - [🛠️ Technologies](#tech-en)
-- [📊 GitHub stats](#stats-en)
 - [📬 Contact me](#contact-en)
 
 <a id="about-en"></a>
@@ -147,7 +127,7 @@ Mais detalhes no meu currículo.
 
 Software engineer with about 17 years in the industry and a degree in Mathematics (UFSC).
 
-- **2011–2015 · R&D in renewable energy (LABSOLAR, Mechanical Engineering Dept., UFSC):** built embedded/data-acquisition systems (HP and Campbell Scientific dataloggers, servomechanical solar trackers with radiometers) and statistical routines (multivariable regression, EN12975 / ISO9806) to determine the efficiency curve of flat-plate solar collectors for residential hot water.
+- **2011–2015 · R&D in renewable energy (LABSOLAR, Mechanical Engineering Dept., UFSC):** built embedded/data-acquisition systems (HP and Campbell Scientific dataloggers, servomechanical solar trackers with radiometers) and statistical routines (multivariable regression, EN12975 / ISO9806) to determine the efficiency curve of flat-plate solar collectors for residential hot water consumption.
 - **Since then · full-stack engineer (11 years):**
   - **Getmore Serviços (2017, today Lihai Tecnologia):** first contact with NLP and Machine Learning, deduplicating scraped product data for an e-commerce platform.
   - **Fundação CERTI / Intelbras (2019–2022):** modelled and built an IoT data-convergence platform for asset security, under Scrum.
@@ -191,6 +171,7 @@ More details in my CV.
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![NATS JetStream](https://img.shields.io/badge/NATS-JetStream-00E492?style=for-the-badge&logo=natsdotio&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -224,32 +205,32 @@ More details in my CV.
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-455A64?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Statistical_Analysis-5E35B1?style=for-the-badge)
 
-<a id="stats-en"></a>
-
-### 📊 GitHub stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img alt="GitHub stats" src="./profile-summary-card-output/default/3-stats.svg" height="200">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img alt="Languages by repository" src="./profile-summary-card-output/default/1-repos-per-language.svg" height="200">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img alt="Languages by commits" src="./profile-summary-card-output/default/2-most-commit-language.svg" height="200">
-  </picture>
-</p>
-
 <a id="contact-en"></a>
 
 ## 📬 Contact me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lwglg.github.io-121212?style=for-the-badge&logo=githubpages&logoColor=white)](https://lwglg.github.io/porfolio-spa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lwglg.github.io-121212?style=for-the-badge&logo=githubpages&logoColor=white)](https://lwglg.github.io/portfolio-spa)
 [![Email](https://img.shields.io/badge/Email-lwglguilherme@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lwglguilherme@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-@guligon90-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guligon90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guligon90-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guligon90)
 
 </details>
+
+---
+
+## Estatísticas / Statistics
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img alt="Estatísticas do GitHub" src="./profile-summary-card-output/default/3-stats.svg" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img alt="Linguagens por repositório" src="./profile-summary-card-output/default/1-repos-per-language.svg" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img alt="Linguagens por commits" src="./profile-summary-card-output/default/2-most-commit-language.svg" height="200">
+  </picture>
+</p>

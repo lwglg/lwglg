@@ -13,32 +13,36 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Ar
 .outline:hover { stroke: var(--highlight); stroke-width: 3; }
 </style>
 <text class="title" x="16" y="28">Languages by repository</text>
-<path d="M120.00 50.00A100 100 0 0 1 213.50 185.46L172.36 169.86A56 56 0 0 0 120.00 94.00Z" fill="#2563eb"/>
-<path d="M213.50 185.46A100 100 0 0 1 53.69 224.85L82.87 191.92A56 56 0 0 0 172.36 169.86Z" fill="#c2410c"/>
-<path d="M53.69 224.85A100 100 0 0 1 26.50 185.46L67.64 169.86A56 56 0 0 0 82.87 191.92Z" fill="#15803d"/>
-<path d="M26.50 185.46A100 100 0 0 1 20.73 137.95L64.41 143.25A56 56 0 0 0 67.64 169.86Z" fill="#7e22ce"/>
-<path d="M20.73 137.95A100 100 0 0 1 37.70 93.19L73.91 118.19A56 56 0 0 0 64.41 143.25Z" fill="#be123c"/>
-<path d="M37.70 93.19A100 100 0 0 1 73.53 61.45L93.98 100.41A56 56 0 0 0 73.91 118.19Z" fill="#0f766e"/>
-<path d="M73.53 61.45A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 93.98 100.41Z" fill="#a16207"/>
-<path class="outline" d="M120.00 50.00A100 100 0 0 1 213.50 185.46L172.36 169.86A56 56 0 0 0 120.00 94.00Z"><title>TypeScript: 30.8% (4 repos)</title></path>
-<path class="outline" d="M213.50 185.46A100 100 0 0 1 53.69 224.85L82.87 191.92A56 56 0 0 0 172.36 169.86Z"><title>Python: 30.8% (4 repos)</title></path>
-<path class="outline" d="M53.69 224.85A100 100 0 0 1 26.50 185.46L67.64 169.86A56 56 0 0 0 82.87 191.92Z"><title>Go: 7.7% (1 repo)</title></path>
-<path class="outline" d="M26.50 185.46A100 100 0 0 1 20.73 137.95L64.41 143.25A56 56 0 0 0 67.64 169.86Z"><title>JavaScript: 7.7% (1 repo)</title></path>
-<path class="outline" d="M20.73 137.95A100 100 0 0 1 37.70 93.19L73.91 118.19A56 56 0 0 0 64.41 143.25Z"><title>Dockerfile: 7.7% (1 repo)</title></path>
-<path class="outline" d="M37.70 93.19A100 100 0 0 1 73.53 61.45L93.98 100.41A56 56 0 0 0 73.91 118.19Z"><title>Java: 7.7% (1 repo)</title></path>
-<path class="outline" d="M73.53 61.45A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 93.98 100.41Z"><title>Mermaid: 7.7% (1 repo)</title></path>
-<text class="percent" x="184.2" y="109.7">31%</text>
-<text class="percent" x="138.7" y="229.7">31%</text>
-<text class="percent" x="55.8" y="198.3">8%</text>
-<text class="percent" x="42.6" y="163.4">8%</text>
-<text class="percent" x="47.1" y="126.3">8%</text>
-<text class="percent" x="68.3" y="95.6">8%</text>
-<text class="percent" x="101.3" y="78.3">8%</text>
-<rect x="250" y="55" width="14" height="14" rx="3" fill="#2563eb"/><text class="label" x="272" y="66">TypeScript</text><text class="label muted" x="464" y="66" text-anchor="end">30.8%</text>
-<rect x="250" y="79" width="14" height="14" rx="3" fill="#c2410c"/><text class="label" x="272" y="90">Python</text><text class="label muted" x="464" y="90" text-anchor="end">30.8%</text>
-<rect x="250" y="103" width="14" height="14" rx="3" fill="#15803d"/><text class="label" x="272" y="114">Go</text><text class="label muted" x="464" y="114" text-anchor="end">7.7%</text>
-<rect x="250" y="127" width="14" height="14" rx="3" fill="#7e22ce"/><text class="label" x="272" y="138">JavaScript</text><text class="label muted" x="464" y="138" text-anchor="end">7.7%</text>
-<rect x="250" y="151" width="14" height="14" rx="3" fill="#be123c"/><text class="label" x="272" y="162">Dockerfile</text><text class="label muted" x="464" y="162" text-anchor="end">7.7%</text>
-<rect x="250" y="175" width="14" height="14" rx="3" fill="#0f766e"/><text class="label" x="272" y="186">Java</text><text class="label muted" x="464" y="186" text-anchor="end">7.7%</text>
-<rect x="250" y="199" width="14" height="14" rx="3" fill="#a16207"/><text class="label" x="272" y="210">Mermaid</text><text class="label muted" x="464" y="210" text-anchor="end">7.7%</text>
+<path d="M120.00 50.00A100 100 0 0 1 217.49 172.25L174.60 162.46A56 56 0 0 0 120.00 94.00Z" fill="#2563eb"/>
+<path d="M217.49 172.25A100 100 0 0 1 76.61 240.10L95.70 200.45A56 56 0 0 0 174.60 162.46Z" fill="#c2410c"/>
+<path d="M76.61 240.10A100 100 0 0 1 41.82 212.35L76.22 184.92A56 56 0 0 0 95.70 200.45Z" fill="#15803d"/>
+<path d="M41.82 212.35A100 100 0 0 1 22.51 172.25L65.40 162.46A56 56 0 0 0 76.22 184.92Z" fill="#7e22ce"/>
+<path d="M22.51 172.25A100 100 0 0 1 22.51 127.75L65.40 137.54A56 56 0 0 0 65.40 162.46Z" fill="#be123c"/>
+<path d="M22.51 127.75A100 100 0 0 1 41.82 87.65L76.22 115.08A56 56 0 0 0 65.40 137.54Z" fill="#0f766e"/>
+<path d="M41.82 87.65A100 100 0 0 1 76.61 59.90L95.70 99.55A56 56 0 0 0 76.22 115.08Z" fill="#a16207"/>
+<path d="M76.61 59.90A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 95.70 99.55Z" fill="#52525b"/>
+<path class="outline" d="M120.00 50.00A100 100 0 0 1 217.49 172.25L174.60 162.46A56 56 0 0 0 120.00 94.00Z"><title>TypeScript: 28.6% (4 repos)</title></path>
+<path class="outline" d="M217.49 172.25A100 100 0 0 1 76.61 240.10L95.70 200.45A56 56 0 0 0 174.60 162.46Z"><title>Python: 28.6% (4 repos)</title></path>
+<path class="outline" d="M76.61 240.10A100 100 0 0 1 41.82 212.35L76.22 184.92A56 56 0 0 0 95.70 200.45Z"><title>Typst: 7.1% (1 repo)</title></path>
+<path class="outline" d="M41.82 212.35A100 100 0 0 1 22.51 172.25L65.40 162.46A56 56 0 0 0 76.22 184.92Z"><title>Go: 7.1% (1 repo)</title></path>
+<path class="outline" d="M22.51 172.25A100 100 0 0 1 22.51 127.75L65.40 137.54A56 56 0 0 0 65.40 162.46Z"><title>JavaScript: 7.1% (1 repo)</title></path>
+<path class="outline" d="M22.51 127.75A100 100 0 0 1 41.82 87.65L76.22 115.08A56 56 0 0 0 65.40 137.54Z"><title>Dockerfile: 7.1% (1 repo)</title></path>
+<path class="outline" d="M41.82 87.65A100 100 0 0 1 76.61 59.90L95.70 99.55A56 56 0 0 0 76.22 115.08Z"><title>Java: 7.1% (1 repo)</title></path>
+<path class="outline" d="M76.61 59.90A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 95.70 99.55Z"><title>Other: 7.1% (1 repo)</title></path>
+<text class="percent" x="181.0" y="105.4">29%</text>
+<text class="percent" x="153.8" y="224.3">29%</text>
+<text class="percent" x="71.4" y="215.0">7%</text>
+<text class="percent" x="49.7" y="187.8">7%</text>
+<text class="percent" x="42.0" y="154.0">7%</text>
+<text class="percent" x="49.7" y="120.2">7%</text>
+<text class="percent" x="71.4" y="93.0">7%</text>
+<text class="percent" x="102.6" y="78.0">7%</text>
+<rect x="250" y="55" width="14" height="14" rx="3" fill="#2563eb"/><text class="label" x="272" y="66">TypeScript</text><text class="label muted" x="464" y="66" text-anchor="end">28.6%</text>
+<rect x="250" y="79" width="14" height="14" rx="3" fill="#c2410c"/><text class="label" x="272" y="90">Python</text><text class="label muted" x="464" y="90" text-anchor="end">28.6%</text>
+<rect x="250" y="103" width="14" height="14" rx="3" fill="#15803d"/><text class="label" x="272" y="114">Typst</text><text class="label muted" x="464" y="114" text-anchor="end">7.1%</text>
+<rect x="250" y="127" width="14" height="14" rx="3" fill="#7e22ce"/><text class="label" x="272" y="138">Go</text><text class="label muted" x="464" y="138" text-anchor="end">7.1%</text>
+<rect x="250" y="151" width="14" height="14" rx="3" fill="#be123c"/><text class="label" x="272" y="162">JavaScript</text><text class="label muted" x="464" y="162" text-anchor="end">7.1%</text>
+<rect x="250" y="175" width="14" height="14" rx="3" fill="#0f766e"/><text class="label" x="272" y="186">Dockerfile</text><text class="label muted" x="464" y="186" text-anchor="end">7.1%</text>
+<rect x="250" y="199" width="14" height="14" rx="3" fill="#a16207"/><text class="label" x="272" y="210">Java</text><text class="label muted" x="464" y="210" text-anchor="end">7.1%</text>
+<rect x="250" y="223" width="14" height="14" rx="3" fill="#52525b"/><text class="label" x="272" y="234">Other</text><text class="label muted" x="464" y="234" text-anchor="end">7.1%</text>
 </svg>

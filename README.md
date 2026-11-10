@@ -1,9 +1,9 @@
 ## Contents
 
-- [👤 About me](#about-me)
-- [🛠️ Tools that I've worked with so far](#tools-that-ive-worked-with-so-far)
+- [👤 About me](#-about-me)
+- [🛠️ Tools that I've worked with so far](#-tools-that-ive-worked-with-so-far)
 - [📊 GitHub statistics](#-github-statistics)
-- [📬 Contact information](#-contact-information)
+- [📬 Other platforms for further contact](#-other-platforms-for-further-contact)
 
 ## 👤 About me
 
@@ -38,7 +38,7 @@ More details in my CV.
   <img alt="Languages by repository" src="./stats/languages-by-repos.svg" width="48%">
 </p>
 
-## 📬 Contact information
+## 📬 Other platforms for further contact
 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-lwglg.github.io-121212?style=flat-square&logo=githubpages&logoColor=white)](https://lwglg.github.io/portfolio-spa)
 - [![Email](https://img.shields.io/badge/Email-lwglguilherme@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lwglguilherme@gmail.com)

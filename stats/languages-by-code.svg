@@ -13,36 +13,36 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Ar
 .outline:hover { stroke: var(--highlight); stroke-width: 3; }
 </style>
 <text class="title" x="16" y="28">Languages by code volume</text>
-<path d="M120.00 50.00A100 100 0 0 1 133.98 249.02L127.83 205.45A56 56 0 0 0 120.00 94.00Z" fill="#2563eb"/>
-<path d="M133.98 249.02A100 100 0 0 1 31.00 195.59L70.16 175.53A56 56 0 0 0 127.83 205.45Z" fill="#c2410c"/>
-<path d="M31.00 195.59A100 100 0 0 1 33.95 99.06L71.81 121.47A56 56 0 0 0 70.16 175.53Z" fill="#15803d"/>
-<path d="M33.95 99.06A100 100 0 0 1 49.16 79.42L80.33 110.47A56 56 0 0 0 71.81 121.47Z" fill="#7e22ce"/>
-<path d="M49.16 79.42A100 100 0 0 1 67.72 64.76L90.72 102.26A56 56 0 0 0 80.33 110.47Z" fill="#be123c"/>
-<path d="M67.72 64.76A100 100 0 0 1 78.32 59.10L96.66 99.10A56 56 0 0 0 90.72 102.26Z" fill="#0f766e"/>
-<path d="M78.32 59.10A100 100 0 0 1 87.01 55.60L101.53 97.13A56 56 0 0 0 96.66 99.10Z" fill="#a16207"/>
-<path d="M87.01 55.60A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 101.53 97.13Z" fill="#52525b"/>
-<path class="outline" d="M120.00 50.00A100 100 0 0 1 133.98 249.02L127.83 205.45A56 56 0 0 0 120.00 94.00Z"><title>TypeScript: 47.8% (1.8 MB)</title></path>
-<path class="outline" d="M133.98 249.02A100 100 0 0 1 31.00 195.59L70.16 175.53A56 56 0 0 0 127.83 205.45Z"><title>Go: 19.7% (731 KB)</title></path>
-<path class="outline" d="M31.00 195.59A100 100 0 0 1 33.95 99.06L71.81 121.47A56 56 0 0 0 70.16 175.53Z"><title>Python: 16.0% (595 KB)</title></path>
-<path class="outline" d="M33.95 99.06A100 100 0 0 1 49.16 79.42L80.33 110.47A56 56 0 0 0 71.81 121.47Z"><title>Java: 4.0% (147 KB)</title></path>
-<path class="outline" d="M49.16 79.42A100 100 0 0 1 67.72 64.76L90.72 102.26A56 56 0 0 0 80.33 110.47Z"><title>C#: 3.8% (140 KB)</title></path>
-<path class="outline" d="M67.72 64.76A100 100 0 0 1 78.32 59.10L96.66 99.10A56 56 0 0 0 90.72 102.26Z"><title>Shell: 1.9% (71 KB)</title></path>
-<path class="outline" d="M78.32 59.10A100 100 0 0 1 87.01 55.60L101.53 97.13A56 56 0 0 0 96.66 99.10Z"><title>JavaScript: 1.5% (55 KB)</title></path>
-<path class="outline" d="M87.01 55.60A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 101.53 97.13Z"><title>Other: 5.3% (198 KB)</title></path>
-<text class="percent" x="197.8" y="148.5">48%</text>
-<text class="percent" x="84.1" y="223.2">20%</text>
-<text class="percent" x="42.0" y="151.6">16%</text>
+<path d="M120.00 50.00A100 100 0 0 1 137.21 248.51L129.64 205.16A56 56 0 0 0 120.00 94.00Z" fill="#2563eb"/>
+<path d="M137.21 248.51A100 100 0 0 1 33.20 199.65L71.39 177.81A56 56 0 0 0 129.64 205.16Z" fill="#c2410c"/>
+<path d="M33.20 199.65A100 100 0 0 1 32.25 102.04L70.86 123.14A56 56 0 0 0 71.39 177.81Z" fill="#15803d"/>
+<path d="M32.25 102.04A100 100 0 0 1 46.60 82.09L78.89 111.97A56 56 0 0 0 70.86 123.14Z" fill="#7e22ce"/>
+<path d="M46.60 82.09A100 100 0 0 1 64.38 66.90L88.85 103.46A56 56 0 0 0 78.89 111.97Z" fill="#be123c"/>
+<path d="M64.38 66.90A100 100 0 0 1 74.63 60.88L94.59 100.09A56 56 0 0 0 88.85 103.46Z" fill="#0f766e"/>
+<path d="M74.63 60.88A100 100 0 0 1 83.08 57.06L99.33 97.96A56 56 0 0 0 94.59 100.09Z" fill="#a16207"/>
+<path d="M83.08 57.06A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 99.33 97.96Z" fill="#52525b"/>
+<path class="outline" d="M120.00 50.00A100 100 0 0 1 137.21 248.51L129.64 205.16A56 56 0 0 0 120.00 94.00Z"><title>TypeScript: 47.2% (1.8 MB)</title></path>
+<path class="outline" d="M137.21 248.51A100 100 0 0 1 33.20 199.65L71.39 177.81A56 56 0 0 0 129.64 205.16Z"><title>Go: 19.5% (731 KB)</title></path>
+<path class="outline" d="M33.20 199.65A100 100 0 0 1 32.25 102.04L70.86 123.14A56 56 0 0 0 71.39 177.81Z"><title>Python: 16.2% (609 KB)</title></path>
+<path class="outline" d="M32.25 102.04A100 100 0 0 1 46.60 82.09L78.89 111.97A56 56 0 0 0 70.86 123.14Z"><title>Java: 3.9% (147 KB)</title></path>
+<path class="outline" d="M46.60 82.09A100 100 0 0 1 64.38 66.90L88.85 103.46A56 56 0 0 0 78.89 111.97Z"><title>C#: 3.7% (140 KB)</title></path>
+<path class="outline" d="M64.38 66.90A100 100 0 0 1 74.63 60.88L94.59 100.09A56 56 0 0 0 88.85 103.46Z"><title>Shell: 1.9% (71 KB)</title></path>
+<path class="outline" d="M74.63 60.88A100 100 0 0 1 83.08 57.06L99.33 97.96A56 56 0 0 0 94.59 100.09Z"><title>JavaScript: 1.5% (55 KB)</title></path>
+<path class="outline" d="M83.08 57.06A100 100 0 0 1 120.00 50.00L120.00 94.00A56 56 0 0 0 99.33 97.96Z"><title>Other: 6.0% (226 KB)</title></path>
+<text class="percent" x="197.7" y="147.3">47%</text>
+<text class="percent" x="86.8" y="224.6">19%</text>
+<text class="percent" x="42.0" y="154.8">16%</text>
 
 
 
 
-<text class="percent" x="107.0" y="77.1">5%</text>
-<rect x="250" y="55" width="14" height="14" rx="3" fill="#2563eb"/><text class="label" x="272" y="66">TypeScript</text><text class="label muted" x="464" y="66" text-anchor="end">47.8%</text>
-<rect x="250" y="79" width="14" height="14" rx="3" fill="#c2410c"/><text class="label" x="272" y="90">Go</text><text class="label muted" x="464" y="90" text-anchor="end">19.7%</text>
-<rect x="250" y="103" width="14" height="14" rx="3" fill="#15803d"/><text class="label" x="272" y="114">Python</text><text class="label muted" x="464" y="114" text-anchor="end">16.0%</text>
-<rect x="250" y="127" width="14" height="14" rx="3" fill="#7e22ce"/><text class="label" x="272" y="138">Java</text><text class="label muted" x="464" y="138" text-anchor="end">4.0%</text>
-<rect x="250" y="151" width="14" height="14" rx="3" fill="#be123c"/><text class="label" x="272" y="162">C#</text><text class="label muted" x="464" y="162" text-anchor="end">3.8%</text>
+<text class="percent" x="105.3" y="77.4">6%</text>
+<rect x="250" y="55" width="14" height="14" rx="3" fill="#2563eb"/><text class="label" x="272" y="66">TypeScript</text><text class="label muted" x="464" y="66" text-anchor="end">47.2%</text>
+<rect x="250" y="79" width="14" height="14" rx="3" fill="#c2410c"/><text class="label" x="272" y="90">Go</text><text class="label muted" x="464" y="90" text-anchor="end">19.5%</text>
+<rect x="250" y="103" width="14" height="14" rx="3" fill="#15803d"/><text class="label" x="272" y="114">Python</text><text class="label muted" x="464" y="114" text-anchor="end">16.2%</text>
+<rect x="250" y="127" width="14" height="14" rx="3" fill="#7e22ce"/><text class="label" x="272" y="138">Java</text><text class="label muted" x="464" y="138" text-anchor="end">3.9%</text>
+<rect x="250" y="151" width="14" height="14" rx="3" fill="#be123c"/><text class="label" x="272" y="162">C#</text><text class="label muted" x="464" y="162" text-anchor="end">3.7%</text>
 <rect x="250" y="175" width="14" height="14" rx="3" fill="#0f766e"/><text class="label" x="272" y="186">Shell</text><text class="label muted" x="464" y="186" text-anchor="end">1.9%</text>
 <rect x="250" y="199" width="14" height="14" rx="3" fill="#a16207"/><text class="label" x="272" y="210">JavaScript</text><text class="label muted" x="464" y="210" text-anchor="end">1.5%</text>
-<rect x="250" y="223" width="14" height="14" rx="3" fill="#52525b"/><text class="label" x="272" y="234">Other</text><text class="label muted" x="464" y="234" text-anchor="end">5.3%</text>
+<rect x="250" y="223" width="14" height="14" rx="3" fill="#52525b"/><text class="label" x="272" y="234">Other</text><text class="label muted" x="464" y="234" text-anchor="end">6.0%</text>
 </svg>

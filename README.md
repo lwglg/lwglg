@@ -10,7 +10,7 @@
 Software engineer with about 17 years in the industry and a degree in Mathematics (B.Math UFSC, 2019).
 
 - **2011–2015 · R&D in renewable energy (LABSOLAR, Mechanical Engineering Dept., UFSC):** built embedded/data-acquisition systems (HP and Campbell Scientific dataloggers, servomechanical solar trackers with radiometers) and statistical routines (multivariable regression, EN12975 / ISO9806) to determine the efficiency curve of flat-plate solar collectors for residential hot water consumption.
-- **Since then · full-stack engineer (11 years):**
+- **Since then · full-stack engineer (11 years), pending more towards back-end engineering:**
   - **Getmore Serviços (2017, today Lihai Tecnologia):** first contact with NLP and Machine Learning, deduplicating scraped product data for an e-commerce platform.
   - **Fundação CERTI / Intelbras (2019–2020):** modelled and built an IoT data-convergence platform for asset security, under Scrum.
   - **Strokmatic Automação Industrial / ArcelorMittal Brasil:** a computer vision platform for steel-bar quality control on the factory floor — cameras and PLCs, Python workers, YOLO (PyTorch) defect classifiers, GCP buckets, and a Node.js client app (Nest.js + Angular.js) built with DDD and Clean Architecture over PostgreSQL.
